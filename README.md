@@ -8,7 +8,7 @@
 
 <div style="didisplay: inline_block">
   <a href="https://github.com/Immanuel-Victor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Immanuel-Victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Meus Status"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Immanuel-Victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Meus Status"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel-Victor&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
