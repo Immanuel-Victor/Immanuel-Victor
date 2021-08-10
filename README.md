@@ -24,10 +24,5 @@
   
   #### Algumas das coisas que eu gosto de fazer no tempo livre
  
-    <div style="display: inline_block"><br>
-      <img width="200em" height="160em" alt="Desert-PixelArt" src="
-          
-      
-      
-    </div>
-      
+ <img alt="Desert-PixelArt" height="160" width="200" src="https://user-images.githubusercontent.com/84516493/128793656-7393310d-e800-4539-9b6c-a96f2f6e42f7.png">
+ <img alt="City-Pixel-Art" height="160" width="200" src="https://user-images.githubusercontent.com/84516493/128794102-b6cd3ed0-ec51-41d1-86bb-a9400b43d4c2.png">
