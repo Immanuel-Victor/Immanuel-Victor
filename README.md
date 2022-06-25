@@ -5,12 +5,11 @@
  <p align="justify">Bem, eu gosto bastante de programar, eu atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) no 
  Instituto Federal da Paraiba - Campus Cajazeiras(IFPB). Eu atualmente estou estudando WordPress, React e MySQL
  
-
 <br><div align="center" style="display: inline_block">
   <a href="https://github.com/Immanuel-Victor">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Immanuel-Victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Meus Status"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel-Victor&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
+</div><br> 
  <div align="center">
  <kbd align="center">
    Minhas Tecnologias:
@@ -40,6 +39,3 @@
   <img align="center" alt="Vi-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg">
 </div></kbd>
  </div>
-
- <br>
- <a align="center" href="https://app.daily.dev/Immanuel_Victor"><img align="center" src="https://github.com/Immanuel-Victor/Immanuel-Victor/blob/main/devcard.svg" width="400" alt="Immanuel Victor's Dev Card"/></a>
