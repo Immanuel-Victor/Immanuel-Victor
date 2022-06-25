@@ -41,3 +41,5 @@
 </div></kbd>
  </div>
 
+ <br>
+ <a align="center" href="https://app.daily.dev/Immanuel_Victor"><img align="center" src="https://github.com/Immanuel-Victor/Immanuel-Victor/edit/main/README.md" width="400" alt="Immanuel Victor's Dev Card"/></a>
