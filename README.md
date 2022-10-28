@@ -4,10 +4,7 @@
 
  <p align="justify">Bem, eu gosto bastante de programar, eu atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) no 
  Instituto Federal da Paraiba - Campus Cajazeiras(IFPB). Eu atualmente estou estudando WordPress, React e MySQL
- 
-<br><div align="center" style="display: inline_block">
-![My Stats](https://github-readme-stats.vercel.app/api?username=Immanuel-Victor&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel-Victor&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
  <div align="center">
  <kbd align="center">
    Minhas Tecnologias:
@@ -38,3 +35,6 @@
   <img align="center" alt="Vi-unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div></kbd>
  </div>
+ 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
