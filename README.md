@@ -37,5 +37,15 @@
  </div>
  
  <!--START_SECTION:waka-->
- 
+
+```text
+From: 26 October 2022 - To: 28 October 2022
+
+Total Time: 1 hr 19 mins
+
+TypeScript   54 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.73 %
+JSON         14 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.24 %
+JavaScript   10 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.03 %
+```
+
 <!--END_SECTION:waka-->
