@@ -3,7 +3,10 @@
 <h3> Eu me chamo Immanuel Victor</h3>
 
  <p align="justify">Bem, eu gosto bastante de programar, eu atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) no 
- Instituto Federal da Paraiba - Campus Cajazeiras(IFPB). Eu atualmente estou estudando WordPress, React e MySQL
+ Instituto Federal da Paraiba - Campus Cajazeiras(IFPB). Eu atualmente estou estudando Typescript, JavaScript, Node e ElectronJS
+ 
+ <br>
+ <br>
 
  <div align="center">
  <kbd align="center">
@@ -16,6 +19,7 @@
   <img align="center" alt="Vi-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vi-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div></kbd>
+ 
 
   <kbd align="center">
    O que eu estou aprendendo:
@@ -35,6 +39,9 @@
   <img align="center" alt="Vi-unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div></kbd>
  </div>
+ 
+ <br>
+ <br>
  
  <!--START_SECTION:waka-->
 
