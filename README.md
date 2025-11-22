@@ -1,41 +1,32 @@
-<h1> Olá, Tudo bem com você? 👋 </h1>
+<div style="display:flex" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=54CA75&center=true&vCenter=true&width=600&lines=Opa!+Bem+vindo+ao+meu+perfil!;Me+chamo+Immanuel+Victor;Desenvolvedor+backend" alt="Typing SVG" /></a>
+</div>
+<img src="https://i.pinimg.com/1200x/a8/8d/62/a88d62bd94e6a3e27d035e241e4c2ad2.jpg" />
 
-<h3> Eu me chamo Immanuel Victor</h3>
+## Sobre Mim:
+- Graduado em Análise e Desenvolvimento de Sistemas - IFPB, Campus Cajazeiras
+- Atualmente Estudando: NestJs
+- Área de Interesse: Desenvolvimento Backend
 
- <p align="justify">Bem, eu gosto bastante de programar, eu atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) no 
- Instituto Federal da Paraiba - Campus Cajazeiras(IFPB). Eu atualmente estou estudando Typescript, JavaScript, Node e ElectronJS
- 
- <br>
- <br>
+## Contatos:
+<div >
+<a href = "mailto:immanuel.amorim@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/immanuel-victor-amorim-farias-948786212/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
- <div align="center">
- <kbd align="center">
-   Minhas Tecnologias:
-  <div style="display: inline_block;"><br>
-  <img align="center" alt="Vi-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Vi-git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Vi-HTML"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vi-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vi-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div></kbd>
- 
+## Ferramentas e Tecnologias:
+<div >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</div>
 
-  <kbd align="center">
-   O que eu estou aprendendo:
-  <div style="display: inline_block;"><br>
-  <img align="center" alt="Vi-postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Vi-selenium" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Vi-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vi-electron" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="Vi-nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div></kbd>
-  <kbd align="center">
-   O que Planejo Aprender:
-  <div style="display: inline_block;"><br>
-  <img align="center" alt="Vi-firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Vi-csharp"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vi-cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Vi-unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-</div></kbd>
- </div>
+## Atualmente me especializando:
+<div >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
+</div>
+
+## Meu histórico:
+<div style="display:flex" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Immanuel-Victor&show_icons=true&hide_border=true&theme=transparent&title_color=54CA75FF&text_color=c9d1d9&icon_color=54CA75FF&color=00" alt="Immanuel Victor's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel-VictoR&layout=compact&langs_count=7&show_icons=true&hide_border=true&theme=transparent&title_color=54CA75FF&text_color=c9d1d9&icon_color=54CA75FF&color=00"/>
+</div>
+
